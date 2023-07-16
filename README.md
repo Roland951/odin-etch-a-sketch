@@ -1,0 +1,1 @@
+This is a sample of an etch-a-sketch game and the fourth exercise following The Odin Project course. Skills: HTML, CSS, Javascript.
